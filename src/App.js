@@ -24,7 +24,6 @@ function App() {
     fetch("https://api.github.com/repos/frontendbr/vagas/issues")
       .then((response) => response.json())
       .then((data) => {
-        console.log(data);
         setIssues(data);
       });
   }, []);
