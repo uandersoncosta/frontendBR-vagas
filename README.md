@@ -4,7 +4,7 @@ A comunidade Front-end Brasil no GitHub é uma comunidade online para desenvolve
 
 <br>
 <p align="center">
-    <a href="https://bracoders.vercel.app" target="blank">Deploy</a>
+    <a href="https://frontendbrasil-vagas.vercel.app" target="blank">Deploy</a>
     ·
     <a href="https://github.com/uandersoncosta/bracoders/issues">Report Bug</a>
     ·
