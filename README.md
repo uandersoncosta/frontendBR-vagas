@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+<img align="center" src="public/images/frontendBR-vagas.png" alt="(Prévia)Video do Encriptador">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A comunidade Front-end Brasil no GitHub é uma comunidade online para desenvolvedores e entusiastas de tecnologia da web interessados em compartilhar conhecimentos e discutir tópicos relacionados ao desenvolvimento front-end. Esta comunidade se concentra em ajudar a desenvolver habilidades em HTML, CSS, JavaScript e outras tecnologias relacionadas ao front-end, bem como ajudar a conectar pessoas interessadas na área.
 
-## Available Scripts
+<br>
+<p align="center">
+    <a href="https://bracoders.vercel.app" target="blank">Deploy</a>
+    ·
+    <a href="https://github.com/uandersoncosta/bracoders/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/uandersoncosta/bracoders/issues">Request Feature</a>
+</p>
 
-In the project directory, you can run:
+<p align="center"><img src="public/images/frontendbr-vagas.gif" alt="FrontendBR-Vagas" width="550" /></p>
+<hr>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Com isso, um dos repositorios da comunidade são as vagas que são postadas diariamente por lá na aba "issues". Por estar estudando ReactJS decidi usar a API que o github disponibiliza e fazer o site de vagas da comunidade.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💻 Codei com
 
-### `npm test`
+- [React](https://pt-br.reactjs.org)
+- [Styled Components](https://styled-components.com): 
+- [React-modal](http://reactcommunity.org/react-modal/): Modal do react
+- [ReactMarkdown](https://github.com/remarkjs/react-markdown): Usei para renderizar o texto que vinha da api em formato de MarkDown.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔗 Links uteis
 
-### `npm run build`
+Meu [LinkedIn](https://www.linkedin.com/in/uandersoncosta/)<br>
+Meu [Portfólio](https://github.com/uandersoncosta/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🙏 Apoio
+Esse projeto precisa de uma ⭐️ sua. Não esqueça de deixar uma ⭐️
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Se você achou esse site útil, compartilhe com os seus amigos.
