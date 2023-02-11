@@ -20,7 +20,7 @@ Com isso, um dos repositorios da comunidade são as vagas que são postadas diar
 ## 💻 Codei com
 
 - [React](https://pt-br.reactjs.org)
-- [Styled Components](https://styled-components.com): 
+- [Styled Components](https://styled-components.com)
 - [React-modal](http://reactcommunity.org/react-modal/): Modal do react
 - [ReactMarkdown](https://github.com/remarkjs/react-markdown): Usei para renderizar o texto que vinha da api em formato de MarkDown.
 
